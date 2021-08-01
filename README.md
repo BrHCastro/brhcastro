@@ -9,14 +9,93 @@
  ### Skills 🤓
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricky-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ricky-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ricky-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Ricky-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Ricky-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img 
+       align="center" 
+       alt="Ricky-Js" 
+       height="30" 
+       title="JavaScript" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
+   />
+  <img 
+       align="center" 
+       alt="Ricky-Ts" 
+       height="30"
+       title="TypeScript"
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
+   />
+  <img 
+       align="center" 
+       alt="Ricky-HTML" height="30"
+       title="HTML5"
+       height="30"
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+   />
+  <img 
+       align="center" 
+       alt="Ricky-CSS"
+       title="CSS3"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+   />
+  <img 
+       align="center" 
+       alt="Ricky-React"
+       title="ReactJS"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+   />
+  <img 
+       align="center" 
+       alt="Ricky-Vue"
+       title="VueJS"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+   />
+  <img 
+       align="center" 
+       alt="Ricky-Angular"
+       title="AngularJS"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+   />
+  <img 
+       align="center" 
+       alt="Ricky-Nodejs"
+       title="NodeJS"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+   />
+  <img 
+       align="center" 
+       alt="Ricky-MySQL" 
+       title="MySQL"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+   />
+   <img 
+       align="center" 
+       alt="Ricky-MongoDB" 
+       title="MongoDB"
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+   />
+    <img 
+       align="center" 
+       alt="Ricky-PHP" 
+       title="PHP" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+   />
 </div>
   
 ##
