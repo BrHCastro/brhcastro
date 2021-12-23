@@ -51,22 +51,6 @@
    />
   <img 
        align="center" 
-       alt="Ricky-Vue"
-       title="VueJS"
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-   />
-  <img 
-       align="center" 
-       alt="Ricky-Angular"
-       title="AngularJS"
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-   />
-  <img 
-       align="center" 
        alt="Ricky-Nodejs"
        title="NodeJS"
        height="30" 
@@ -88,13 +72,6 @@
        height="30" 
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-   />
-    <img 
-       align="center" 
-       alt="Ricky-PHP" 
-       title="PHP" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
    />
 </div>
   
